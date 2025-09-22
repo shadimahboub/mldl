@@ -1,0 +1,16 @@
+*.pyc
+__pycache__
+*/__pycache__
+*egg-info
+*.pyc
+*/pycache
+model.mdl
+*.zip
+torch
+logs_and_models/*
+*.db
+archive/*
+transitions/*
+dropo_datasets/*
+dropo_output/*
+reinforce_training_runs.sh
